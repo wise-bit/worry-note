@@ -1,0 +1,41 @@
+nav {
+  padding: 24px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.navbar-title {
+  font-size: 24px;
+  color: #563966 !important;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.new-note-button {
+  padding: 10px;
+  margin-left: 50px;
+  margin-left: 50px;
+  color: white;
+  border: solid 0px black;
+  background-color: rgb(75, 110, 75);
+  cursor: pointer;
+}
+
+.logout-button {
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.logout-button-container {
+  background-color: #c94141;
+  color: white;
+  padding: 5px;
+  width: 150px;
+  margin-right: 0px;
+  align-self: right;
+}
+
+.new-note-button-text {
+  color: white;
+}

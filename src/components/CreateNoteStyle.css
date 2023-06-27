@@ -1,0 +1,28 @@
+.create-note-page-container {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+
+.create-note-page {
+  text-align: center;
+}
+
+textarea {
+  width: 480px;
+}
+
+.new-note-submit {
+  margin: 0px;
+  margin-top: 20px;
+}
+
+#createnote {
+  font-size: 16px;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
+
+#createnotetitle {
+  font-size: 16px;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
